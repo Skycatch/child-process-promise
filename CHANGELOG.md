@@ -5,6 +5,10 @@ Changelog
 
 ## 2.1.x
 
+### 2.2.1
+
+- Change close event with exit to capture the event 100%
+
 ### 2.1.0
 
 - Now compatible with all versions of Node.js ([PR #22](https://github.com/patrick-steele-idem/child-process-promise/pull/22) by [@olsonpm](https://github.com/olsonpm) with modification)
