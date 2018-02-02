@@ -1,5 +1,5 @@
 {
-  "name": "child-process-promise",
+  "name": "@skycatch/child-process-promise",
   "description": "Simple wrapper around the \"child_process\" module that makes use of promises",
   "main": "./index.js",
   "files": [
